@@ -1,0 +1,21 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+header {
+    margin: 50px;
+    padding: 50px;
+    text-align: center;
+    font-size: 72px;
+    color: #FCD801;
+    background-color: #281B2D;
+    border-bottom: 20px solid #00C54C;
+}
+h2 {
+    margin: 50px;
+    padding: 50px;
+    font-size: 48px;
+    color: #FCD801;
+    background-color: #281B2D;
+    border-bottom: 20px solid #00C54C;
+}
